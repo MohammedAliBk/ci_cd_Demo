@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 int main(){
-cout<<"hi this is CI/CD from cpp code i just wrote!!"<<endl;
+string name ;
+cout<<"Hi please enter your name : "<<endl;
+cin>>name;
 return 0;
 }
